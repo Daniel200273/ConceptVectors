@@ -1,0 +1,32 @@
+[
+  {
+    "concept": "Capital Cities",
+    "layer": 8,
+    "dimension": 100,
+    "target_bleu": 0.2829071922667676,
+    "target_rouge": 0.8499999955625,
+    "unrelated_bleu": 0.5730841819256149,
+    "unrelated_rouge": 0.8503703658864856,
+    "model": "gemma-1.1-1b-it"
+  },
+  {
+    "concept": "Basic Math",
+    "layer": 6,
+    "dimension": 200,
+    "target_bleu": 0.482842712474619,
+    "target_rouge": 0.999999995,
+    "unrelated_bleu": 0.5726144136100236,
+    "unrelated_rouge": 0.8095238049925596,
+    "model": "gemma-1.1-1b-it"
+  },
+  {
+    "concept": "Colors",
+    "layer": 4,
+    "dimension": 300,
+    "target_bleu": 0.600812488469193,
+    "target_rouge": 0.6471264327335039,
+    "unrelated_bleu": 0.2946815586545186,
+    "unrelated_rouge": 0.8749999954687501,
+    "model": "gemma-1.1-1b-it"
+  }
+]
